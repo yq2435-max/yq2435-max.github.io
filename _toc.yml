@@ -1,4 +1,9 @@
 format: jb-book
 root: index
+
 chapters:
   - file: about
+    title: "About"
+
+  - file: "project 1/project1"
+    title: "Computing in Context – Project 1"
