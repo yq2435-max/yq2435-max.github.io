@@ -1,0 +1,12 @@
+title: "Yizi Qu's Portfolio"
+author: Yizi Qu
+only_build_toc_files: true
+exclude_patterns:
+  - .github/*
+  - .venv/*
+  - .ipynb_checkpoints/*
+execute:
+  execute_notebooks: "off"
+sphinx:
+  config:
+    myst_heading_anchors: 4
