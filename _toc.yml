@@ -6,4 +6,7 @@ chapters:
     title: "About"
 
   - file: "project 1/project1"
-    title: "Computing in Context – Project 1"
+    title: "Computing in Context | Project 1"
+
+  - file: labs/lab_10
+    title: "NYC Sustainability Grants – Per-capita Analysis (Lab 10)"
