@@ -1,6 +1,5 @@
 format: jb-book
 root: index
-
 chapters:
   - file: about
     title: "About"
@@ -12,7 +11,10 @@ chapters:
     title: "Computing in Context | Project 2"
 
   - file: labs/lab_10
-    title: "NYC Sustainability Grants – Per-capita Analysis (Lab 10)"
+    title: "NYC Sustainability Grants | Per-capita Analysis (Lab 10)"
 
   - file: labs/lab_11
     title: "Lab 11"
+
+  - file: labs/lab_12
+    title: "Lab 12"
