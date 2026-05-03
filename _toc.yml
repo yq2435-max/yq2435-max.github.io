@@ -1,26 +1,19 @@
 format: jb-book
 root: index
-entries:
+chapters:
 - file: about
   title: "About"
-
-- file: "project 1/project1"
+- file: project 1/project1
   title: "Computing in Context | Project 1"
-
 - file: project_2
   title: "Computing in Context | Project 2"
-
 - file: project_3
   title: "Computing in Context | Project 3"
-
 - file: sparkly_pickle_writeup
   title: "NYC Traffic Safety Dashboard"
-
 - file: labs/lab_10
   title: "NYC Sustainability Grants | Per-capita Analysis (Lab 10)"
-
 - file: labs/lab_11
   title: "Lab 11"
-
 - file: labs/lab_12
   title: "Lab 12"
