@@ -12,6 +12,9 @@ chapters:
   - file: project_3
     title: "Computing in Context | Project 3"
 
+  - file: sparkly_pickle_writeup
+    title: "NYC Traffic Safety Dashboard"
+
   - file: labs/lab_10
     title: "NYC Sustainability Grants | Per-capita Analysis (Lab 10)"
 
